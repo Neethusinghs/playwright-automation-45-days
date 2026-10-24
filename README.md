@@ -9,4 +9,4 @@ My 45-day journey from Manual QA to Automation engineer, using Javascript, TypeS
 - Prepare for QA Automation Engineer / SDET interviews
 
 ## Progress
-- Day 1: Environment setup and Git basics
+- Day 1: Git setup, first JavaScript program and variables
